@@ -1,0 +1,42 @@
+id;name;DateLastUpdate
+1;Annulation EMM- Rupture en stock;2023-10-09 13:42:31
+2;Annulation EMM-Annulation client;2023-10-09 13:42:31
+3;Annulation EMM-Article non conforme;2023-10-09 13:42:31
+4;Retour;2023-10-09 13:42:31
+5;Annulation EMM-Préparation Bloquée;2023-10-09 13:42:31
+6;Annulation EMM-Annulation FIFO;2023-10-09 13:42:31
+7;Annulation droppoff;2023-10-09 13:42:31
+9;Annulation vendeur;2023-10-09 13:42:31
+15;GRC Rupture de stock;2023-10-09 13:42:31
+16;GRC Emballage endommagé;2023-10-09 13:42:31
+17;GRC Produit périmé;2023-10-09 13:42:31
+18;GRC Article défectueux;2023-10-09 13:42:31
+19;GRC Erreur de référence;2023-10-09 13:42:31
+20;GRC Erreur de désignation;2023-10-09 13:42:31
+21;GRC Erreur de pricing;2023-10-09 13:42:31
+22;GRC Annulation client;2023-10-09 13:42:31
+23;GRC Article expédié sur autre commande;2023-10-09 13:42:31
+24;Echec de livraison Interne;2023-10-09 13:42:31
+25;Echec de livraison Externe;2023-10-09 13:42:31
+26;GRC Article non dropé;2023-10-09 13:42:31
+27;Erreur Drop Off;2023-10-09 13:42:31
+28;Annulation P30;2023-10-25
+29;Annulation vendeur automatique;2023-10-31
+30;Erreur Traitement EMM;2023-10-31
+31;Demarque transporteur;2023-11-13
+32;Article Endommagé;2023-12-08 10:46:09
+33;Forçage Annulation;2024-01-25 14:15:28
+34;Annulation EMM-Reception Dropoff;2024-03-10 12:03:00
+35;Problème technique - Rupture Stock;2024-03-28 08:47:43
+36;Problème technique - CMD introuvable SCALE;2024-03-28 08:47:51
+37;APP Annulation client;2024-04-09 11:24:03
+39;Synchro Stock Octopia;2024-06-11 20:58:11
+40;Annulation fraude;2024-07-24 13:12:14
+41;Conflit Préparation Reprise;2024-07-24 13:22:06
+42;Produit Dangereux;2025-07-24 14:51:54
+43;Non Pris en charge par CHR;2025-07-24 14:52:04
+44;Incomplet;2025-07-24 14:52:11
+45;Ecart Couleur;2025-07-24 14:52:18
+46;Ecart Désignation;2025-07-24 14:52:26
+47;DLC;2025-07-24 14:52:33
+48;Annulation Support SI;2025-07-24 14:52:40
