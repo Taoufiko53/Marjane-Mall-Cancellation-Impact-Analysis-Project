@@ -140,6 +140,7 @@ Cancellations are highly concentrated in **February–March 2025**, suggesting:
    - Quality issues  
    - Delivery delays  
    - Pricing inconsistencies  
+
 ✔ **Improve logistics** in sensitive cities  
 ✔ **Reduce delivery delays** to lower cancellation probability  
 
