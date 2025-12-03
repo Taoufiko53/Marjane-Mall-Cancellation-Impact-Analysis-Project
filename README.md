@@ -69,7 +69,7 @@ The final analysis and visualization phase was conducted in Power BI in order to
 
 #### **Key Performance Indicators (KPIs)**
 
-![MM1](MM1.png)
+![MM6](MM6.png)
 
 
 > *“These figures show that around **1 out of 5 customers** returns to place a new order after experiencing a cancellation.  
